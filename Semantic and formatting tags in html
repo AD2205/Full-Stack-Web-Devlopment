@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- h1 h2 etc me size ka ni semantics ya fir unki significance ka frk hota hai -->
+    <h1>This is my first heading</h1>
+    <h2>This is my second heading</h2>
+    <h3>This is my third heading</h3>
+    <h4>This is my fourth heading</h4>
+    <h5>This is my fifth heading</h5>
+    <h6>This is my sixth heading</h6>
+    <!-- h1 se h6 tak supported hai baki ke tags like h7 h8 paragraph ki trh behave krege -->
+    
+    <p>This is my first paragraph</p>
+
+    <a href="https://leetcode.com/AD2205/">Click here to see my leetcode profile</a>
+
+    <ul>
+        <li>Maggi</li>
+        <li>Lays</li>
+        <li>Kurkure</li>
+        <li>Sutta</li>
+    </ul>
+
+    <ol>
+        <li>Sutta</li>
+        <li>Ganja</li>
+        <li>Daru</li>
+    </ol>
+    <!-- ol>li*3 shortcut -->
+
+    <table>
+        <tr>
+            <td>Day</td>
+            <td>9-10</td>
+            <td>10-11</td>
+            <td>11-12</td>
+            <td>12-1</td>
+            <td>1-2</td>
+            <td>2-3</td>
+            <td>3-4</td>
+        </tr>
+        <tr>
+            <td>Monday</td>
+            <td>oop lab</td>
+            <td>oop lab</td>
+            <td>tafl</td>
+            <td>os</td>
+            <td>dbms</td>
+            <td>ds</td>
+            <td>cs</td>
+        </tr>
+        <tr>
+            <td>Tuesday</td>
+            <td>ds lab</td>
+            <td>ds lab</td>
+            <td>dbms</td>
+            <td>os</td>
+            <td>oop</td>
+            <td>cs</td>
+            <td>tafl</td>
+        </tr>
+        <tr>
+            <td>wednesday</td>
+            <td>dbms</td>
+            <td>dsa</td>
+            <td>dbms lab</td>
+            <td>dbms lab</td>
+            <td>oop lab</td>
+            <td>oop lab</td>
+            <td>os</td>
+        </tr>
+        <tr>
+            <td>thursday</td>
+            <td>dsa</td>
+            <td>dsa</td>
+            <td>tafl</td>
+            <td>oop</td>
+            <td>soft skill</td>
+            <td>soft skill</td>
+            <td>dsa</td>
+        </tr>
+
+        <img src="https://images.news18.com/ibnlive/uploads/2023/02/aditya-roy-kapur-the-night-manager-1-167670687216x9.jpg" 
+        alt="Aditya roy kapoor">
+        <!-- jis bhi tag me uski kch property hoti hai use ham attribute bolte hai 
+            jese yha pr src or alt img tag ke attributes hai -->
+    </table>
+
+        <p>Lorem <em>ipsum</em> dolor <i>sit</i> amet <b><u>consectetur</u></b>, adipisicing <strong>elit.</strong> <s>Reiciendis</s>, id!</p>
+
+        <p>
+            2 <sup>5</sup>
+            Cl <sub>2</sub>
+        </p>
+        <!-- pre tag me jo content jese likhte hai vese hi use hota hai  -->
+
+        <pre>
+            <strong>
+                My
+                name 
+                is
+                Ayush
+                !!
+            </strong>
+           
+        </pre>
+</body>
+</html>
