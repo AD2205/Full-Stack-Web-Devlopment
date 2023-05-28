@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+ <!-- ye code html 5 me likha hua hai. -->
+ <!-- jo bhi angular bracket ke andr hota hai use ham tag bolte hai -->
+ <!-- html hmara root element hai.... element opening tag se closing tag tak ki puri chiz element hoti hai -->
+<html>
+<head>
+    <!-- head tag me meta data/SEO content/ title hota hai -->
+   
+</head>
+<body>
+    <!-- jo bhi content hme display krana hai vo hm body tag me likhege -->
+    Hello dunia this is starting of web dev
+    <br>
+    My name is ayush
+</body>
+</html>
