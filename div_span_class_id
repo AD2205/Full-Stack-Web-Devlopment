@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<style>
+    li{
+        float: left;
+    }
+    ul{
+        list-style: none;
+        margin: 0%;
+    }
+</style>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <!-- p>p>p>p char paragraph tag create krega ek ke andr ek / nested way me -->
+    <!-- article+section dono tag bna dega -->
+    <!-- ise emmit bolte hai -->
+    <!-- # id create krne ke lie use krte hai -->
+    <!-- . class create krne k lie use krte hai -->
+    <!-- <p id="id"></p>
+    <p id="ayush"></p>
+    <p class="ayush"></p>
+    <article class="cat"></article>
+    <article></article>
+    <section></section>
+    <p>
+        <article>
+            <section></section>
+            <section></section>
+            <section></section>
+        </article>
+    </p> -->
+     <!-- <div class="container"></div>
+    <div class="wrapper"></div> -->
+
+    <div style="background-color: blue;">Div tag is block element</div>
+    <div>Div comes in different line</div>
+    <span style="background-color: burlywood;">Span is inline element</span>
+    <span>Span comes in same line</span>
+    <span style="display: block;">block attribute use krne se span bhi inline ki trh kaam kr skta hai</span>
+
+        <div class="nav">
+            <nav>
+                <ul>
+                    <li><a href="">Home</a></li>
+                    <li><a href="">About</a></li>
+                    <li><a href="">Contact Us</a></li>
+                    <li><a href="">Login</a></li>
+                </ul>
+            </nav>
+        </div>
+        <a href="mailto:talkwithayush01@gmail.com">Mail kro</a>
+        <a href="tel:112">Call kro</a>
+   
+</body>
+</html>
